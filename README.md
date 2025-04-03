@@ -1,5 +1,5 @@
 # kobalto.github.io
 
-> first page
+> Principale
 
 ## coming soon
